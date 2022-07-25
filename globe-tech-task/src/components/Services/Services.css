@@ -1,0 +1,22 @@
+.services
+{
+    display: grid;
+    grid-template-columns: repeat(3, .2fr);
+    text-align: justify;
+    background-color: rgb(41, 41, 88);
+    
+}
+
+.naviga
+a{
+text-decoration: none;
+margin-left: 10px;
+}
+
+.naviga
+{
+    display: block;
+    margin-left: auto;
+    margin-right: -100px;
+    width: 50%;
+}

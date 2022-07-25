@@ -1,0 +1,51 @@
+.service
+{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-left: 85px;
+    margin-right: 60px;
+    margin-top: 30px;
+    margin-bottom:50px;
+    height:450px;
+    width: 480px;
+    background-color: white;
+
+}
+.title
+{
+    color: steelblue;
+    font-size: medium;
+    text-align: center;
+    margin-top:20px;
+}
+.img
+{
+    height: 190px;
+    width: 180px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .btn-regular
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: steelblue;
+    height: 40px;
+    width: 130px;
+    border: 1px solid steelblue;
+    border-radius: 18px;
+    
+  }
+  .text
+  {
+    margin-top: 20px;
+    text-align: justify;
+  }
+  

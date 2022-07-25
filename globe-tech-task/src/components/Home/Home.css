@@ -1,0 +1,46 @@
+h1
+{
+    color:#0dcaf0;
+    margin-top: 50%;
+    font-size: 65px;
+    margin-left: 25px;
+}
+span
+{
+    color: yellow;
+}
+
+.home
+{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    background-color: rgb(41, 41, 88);
+    min-height: 700px;
+    max-height: 1300px;
+
+}
+.para
+{
+    font-size:medium;
+    text-align: justify;
+    margin-left: 22%;
+    color:#32d0f0;
+}
+.btn
+{
+    
+    width: 28%;
+    color:black;
+    font-size: larger;
+    margin-left:22%;
+    margin-bottom: 20px;
+}
+ .btn-info{
+margin-left: -40%;
+}
+
+.navigation
+{
+    margin-right: -950px;
+    margin-top: -780px;
+}

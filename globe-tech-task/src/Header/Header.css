@@ -1,0 +1,24 @@
+.nav
+  a{
+    text-decoration: none;
+    color: lightblue;
+    margin: 10px 10px;
+ }
+ .nav
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: -100px;
+    width: 50%;
+ }
+
+ .header
+ {
+    background-color: rgb(41, 41, 88);
+    
+ }
+
+ .body
+ {
+    color:white;
+ }
